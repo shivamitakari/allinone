@@ -7,7 +7,9 @@ to your site or sites and is an integral part of multisite configuration.
 The sites/all/ subdirectory structure should be used to place your custom and
 downloaded extensions including modules, themes, and third party libraries.
 
-Downloaded installation profiles should be placed in the /profiles directory
+
+
+ installation profiles should be placed in the /profiles directory
 in the Drupal root.
 
 In multisite configuration, extensions found in the sites/all directory
